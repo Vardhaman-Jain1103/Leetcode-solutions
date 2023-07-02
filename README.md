@@ -25,4 +25,4 @@ class Solution {
     return dummy.next;
   }
 };
-//Given is the C++ solution for the addition of two linked list numbers
+//Given soltuion is the C++ solution for the addition of two linked list numbers
